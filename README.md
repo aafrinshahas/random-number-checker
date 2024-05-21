@@ -1,12 +1,12 @@
 # Random Number Checker App
-
-This is a simple React.js application that allows users to generate random numbers and check whether they make a correct guess within 5 chances.
+Check out this sleek and functional Random Number Checker built with React.js and styled using Tailwind CSS. This web app allows you to generate random numbers within a specified range and verify if a given number is within that range and check whether they make a correct guess within 5 chances. With its intuitive user interface, it's both easy to use and visually appealing. Give it a try now!
 
 ## Features
 
 - Generate random numbers within a specified range.
 - Check if the generated random and the user entered number are same.
-- User-friendly interface.
+- Clean and responsive UI designed with Tailwind CSS.
+- Built with React.js for smooth and efficient user interaction.
 
 ## Technologies Used
 
@@ -14,6 +14,7 @@ This is a simple React.js application that allows users to generate random numbe
 - JavaScript
 - HTML
 - TailwindCSS
+- CSS
 
 ### Clone the repository
 
